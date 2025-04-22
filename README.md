@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-This project presents a data analysis and visualization report originally created in a Jupyter Notebook and exported as a static HTML document. It includes textual analysis, tabular outputs, and plots generated using Python libraries. The visualizations help explore and interpret a dataset through descriptive statistics and graphical representation. The objective is to enable users to interpret data trends easily and effectively using dynamic visual components.
+This project presents a data analysis and visualization report originally created in a Jupyter Notebook. It includes textual analysis, tabular outputs, and plots generated using Python libraries. The visualizations help explore and interpret a dataset through descriptive statistics and graphical representation. The objective is to enable users to interpret data trends easily and effectively using dynamic visual components.
 
 ---
 
